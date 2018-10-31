@@ -11,3 +11,8 @@ Build a complete browser-based card matching game (also known as Concentration).
 > 3. [Arcade Game](https://kprokkie.github.io/arcade-game/)
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.
+
+> 4. [News Application | Angular with NgRx](https://kprokkie.github.io/angular-ngrx-news-app/)
+
+It is a real-time `News Application` using New York Times news API. 
+The New York Times is an American newspaper based in New York City with worldwide influence and readership.
